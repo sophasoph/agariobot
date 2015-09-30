@@ -21,8 +21,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.*/
 
 // ==UserScript==
-// @name        AposBot
-// @namespace   AposBot
+// @name        PikachuOweMe
+// @namespace   PikachuOweMe
 // @include     http://agar.io/*
 // @version     3.564
 // @grant       none
@@ -34,6 +34,7 @@ var aposBotVersion = 3.564;
 //TODO: Team mode
 //      Detect when people are merging
 //      Split to catch smaller targets
+//      W to get bigger by ten dots
 //      Angle based cluster code
 //      Better wall code
 //      In team mode, make allies be obstacles.
